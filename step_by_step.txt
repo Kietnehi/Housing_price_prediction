@@ -1,0 +1,8 @@
+Hiểu vấn đề và thu thập dữ liệu.
+Tiền xử lý dữ liệu: Xử lý giá trị thiếu, ngoại lai, mã hóa phân loại, chuẩn hóa.
+Khám phá dữ liệu: Phân tích và trực quan hóa dữ liệu.
+Lựa chọn mô hình và huấn luyện.
+Đánh giá mô hình: Sử dụng các chỉ số phù hợp.
+Tinh chỉnh mô hình: Hyperparameter tuning.
+Kiểm tra mô hình trên test set.
+Trực quan hóa kết quả.
