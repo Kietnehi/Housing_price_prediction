@@ -24,7 +24,7 @@
 
 ### Cài đặt môi trường:
 Để chạy dự án này, bạn cần cài đặt các thư viện sau:
-Trước khi chạy code bạn có thể dùng lệnh **pip install -r requirements.txt ** để cài các thư viện cần để chạy được code 
+Trước khi chạy code bạn có thể dùng lệnh **pip install -r requirements.txt** để cài các thư viện cần để chạy được code 
 1. **Clone repository**:
    ```bash
    git clone https://github.com/Kietnehi/Housing_price_prediction.git
